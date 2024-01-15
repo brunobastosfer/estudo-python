@@ -73,12 +73,12 @@ Certifique-se de que o ambiente virtual está desativado antes de fechar a sess�
 
 ## A aplicação possui rota de:
 
-#Login
-#Signup
-#Create Todo
-#Update Todo
-#Detail Todo
-#List Todos
-#Destroy Todo
+# Login
+# Signup
+# Create Todo
+# Update Todo
+# Detail Todo
+# List Todos
+# Destroy Todo
 
 ## Para realizar requisições, é necessário solicitar o token na rota: api/token/ com usuário válido.
